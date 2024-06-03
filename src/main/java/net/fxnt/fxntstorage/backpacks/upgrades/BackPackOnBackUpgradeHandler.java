@@ -112,7 +112,7 @@ public class BackPackOnBackUpgradeHandler {
             doFeed = true;
         }
         // Feed if less than 3 hunger honches
-        if (hunger < 6) {
+        if (hunger < 8) {
             doFeed = true;
         }
         // Find food in backpack
